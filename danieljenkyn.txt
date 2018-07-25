@@ -1,9 +1,7 @@
 <span id="a">DanielJenkyn@Daniels-macbook</span>:<span id="b">~</span><span id="c">$</span> cat danieljenkyn.txt<br/><br/>
-Hello, I'm 
+Hello, I'm
   ___            _     _ 
  |   \ __ _ _ _ (_)___| |
  | |) / _` | ' \| / -_) |
- |___/\__,_|_||_|_\___|_|
-                         
-. <!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I'm a computer science graduate from the University of Bath on the hunt for a job.</p>
+ |___/\__,_|_||_|_\___|_|<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I'm a computer science graduate from the University of Bath and I'm on the hunt for a job.</p>
 <p>You can check out some of my projects on <a href="https://github.com/DanielJenkyn">GitHub</a>
